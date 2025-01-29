@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ActionRogueLike.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRogueLike.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ActionRogueLikeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitignore" />
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\README.md" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ActionRogueLike">
+      <UniqueIdentifier>{EC205556-4271-32AB-90FE-089E5EF40F2B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ActionRogueLike\ActionRogueLike.Build.cs">
+      <Filter>Source\ActionRogueLike</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ActionRogueLike\ActionRogueLike.cpp">
+      <Filter>Source\ActionRogueLike</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRogueLike\ActionRogueLike.h">
+      <Filter>Source\ActionRogueLike</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRogueLike\SCharacter.cpp">
+      <Filter>Source\ActionRogueLike</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ActionRogueLike\SCharacter.h">
+      <Filter>Source\ActionRogueLike</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

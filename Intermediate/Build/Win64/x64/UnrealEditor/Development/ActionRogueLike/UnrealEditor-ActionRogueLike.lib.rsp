@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ActionRogueLike.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Downloads\GitHub\ActionRogueLike\Intermediate\Build\Win64\x64\ActionRogueLikeEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Downloads\GitHub\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\ActionRogueLike.init.gen.cpp.obj"
+"C:\Downloads\GitHub\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\SCharacter.gen.cpp.obj"
+"C:\Downloads\GitHub\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\ActionRogueLike.cpp.obj"
+"C:\Downloads\GitHub\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\SCharacter.cpp.obj"
+"C:\Downloads\GitHub\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\PerModuleInline.gen.cpp.obj"
+"C:\Downloads\GitHub\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\Default.rc2.res"
+/OUT:"C:\Downloads\GitHub\ActionRogueLike\Intermediate\Build\Win64\x64\UnrealEditor\Development\ActionRogueLike\UnrealEditor-ActionRogueLike.lib"
