@@ -39,3 +39,6 @@ Intermediate/
 *.out
 *.app
 .vsconfig
+/Binaries
+/Intermediate
+/Saved
