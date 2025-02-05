@@ -1,9 +1,4 @@
 # Ignore Visual Studio-specific files
-Binaries/
-
-Intermediate/
-
-# Ignore Visual Studio-specific files
 .vs/
 
 # Prerequisites
